@@ -1,5 +1,4 @@
 version: STSv1
 mode: enforce
 mx: www547.your-server.de
-mx: www547.your-server.de
 max_age: 604800
